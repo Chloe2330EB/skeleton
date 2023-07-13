@@ -1,24 +1,10 @@
-# README
+# Rails Skeleton Web App
+### Boilerplate code with basic functionality that is required in all future Expected Behavior websites/products.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Includes a sign up page, sign in page, reset password page for new and existing users.
 
-Things you may want to cover:
+Inside the app, there is a section for free content in addition to Stripe integration that asks for payment from users to enable paid features.
 
-* Ruby version
+[Basecamp Project](https://3.basecamp.com/3093825/projects/33540023)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Burndown Deliverables](https://app.projectburndown.com/teams/1/projects/194)
